@@ -1,0 +1,6 @@
+﻿  checkingmodule.cpp
+c:\users\wc068647\onedrive - cerner corporation\documents\umkc\2020\spring\cs 201l\lab04\lab04\lab04\checkingmodule.cpp(54): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wc068647\onedrive - cerner corporation\documents\umkc\2020\spring\cs 201l\lab04\lab04\lab04\checkingmodule.cpp(57): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wc068647\onedrive - cerner corporation\documents\umkc\2020\spring\cs 201l\lab04\lab04\lab04\checkingmodule.cpp(60): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wc068647\onedrive - cerner corporation\documents\umkc\2020\spring\cs 201l\lab04\lab04\lab04\checkingmodule.cpp(70): warning C4101: 'loan_months': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\wc068647\OneDrive - Cerner Corporation\Documents\UMKC\2020\Spring\CS 201L\Lab04\Lab04\Debug\Lab04.exe for writing
